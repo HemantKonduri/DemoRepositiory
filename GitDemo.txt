@@ -19,3 +19,7 @@ git add *
 git commit -m "some init msg"
 If you swap [23] and 1, the config will not work at all.
 -------------------Error------------------
+
+
+
+adding line in both the file to check the result.
